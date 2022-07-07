@@ -1,0 +1,23 @@
+@media (max-width:1420px) {
+    .container {
+
+    }
+    .block__text {
+        font-size: 85px;
+    }
+
+    .intro__img {
+        transform: translateX(-38%);
+        max-height: 600px;
+    }
+
+    .block__title {
+        font-size: 120px;
+        text-align: right;
+        transform: translateX(-15%);
+    }
+
+    .info__img-i {
+
+    }
+}
